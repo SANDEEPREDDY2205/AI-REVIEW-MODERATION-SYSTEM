@@ -252,6 +252,4 @@ The AI Review Moderation System provides an efficient and scalable solution for 
 
 ---
 
-## Author
 
-Develop
